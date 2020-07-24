@@ -1,4 +1,4 @@
-# na-virtual-starship-experimental
+# Nexus Aurora Virtual Starship Experiment
 ## Abstract
 To create a simple experience where the user may enter and interact with features pertaining the starship. Features such as being able to navigate through other rooms using doors, ladders, or other modes of "walking" will be explored. 
 
@@ -67,7 +67,7 @@ https://docs.unity3d.com/Manual/index.html
 - Basic Ground
 - Basic Model
 
-# Features to be Implement
+# Features to Implement (New Users look here!)
 - Implementation of interaction controllers using the given. Doors, ladders, picking up objects. 
 - Better and/or more realisitc sky by shader or other pipeline. 
 - Creating and optimizing models provided by @joe_mckirdy
