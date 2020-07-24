@@ -66,7 +66,10 @@ public void DoSomething()
 ### Helping out with modeling or optimization for models
 Any 3D modeling programming may be use that allows for .fbx export. There are a few things that need to be checked for exporting to be done correctly. Blender is our choice of software as it is open source and free to the public use. Please use any version 2.8x.x and above. Current version is 2.83.3 LTS at the time of writing: [Click Here to Download Blender](https://blender.org).
 
-![Blender Export Settings 2.8x.x](/images/blenderSettings.png)
+![Blender Export Settings 2.8x.x](/Images/BlenderSettings.png)
+
+Quick hotkey commands are located for your reference in /Images/BlenderHotkeys
+
 
 ### Discord Channel
 If this project sounds interesting to you and you would like to keep in the loop of the development. Please joing our discord channel: https://discord.gg/sT2JtX. Our project is called virtual-starship. Please follow all guidelines and rules set forth by the channel and introduce yourself in the #introduce-yourself channel! 
