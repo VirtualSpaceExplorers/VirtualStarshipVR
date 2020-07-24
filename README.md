@@ -51,7 +51,19 @@ public void DoSomething()
 - Using the Visual Studio Installer, make sure to check the "Game development with Unity" package under Workloads.
 - This may not be needed if you use check this as an option within the Unity installer. If you have an older version, please uninstall and install this one. Otherwise, please make sure that the version is opening correctly the 2019. 
 
+##### Using VS with Unity for Intellisense. 
+- Close Visual Studio 
+- In Unity go to edit -> preferences -> external tools.
+- In external tools, go to the part that says external script editor. This should be on whichever visual studio editor you are using.
+- Make sure generate all CSPROJ files is checked and edited attaching is checked.
+- Open to c# script you were trying to open earlier or open the c# project. 
+
 Fork this branch into your account. Make and explain changes if you commit. Create a PR for us to review before merging. Be as detailed as possible in your commit messages. Due to it being open source, anyone and everyone should have some basic understanding on the changes you have made and why.
+
+### Helping out with modeling or optimization for models
+Any 3D modeling programming may be use that allows for .fbx export. There are a few things that need to be checked for exporting to be done correctly. Blender is our choice of software as it is open source and free to the public use. Please use any version 2.8x.x and above. Current version is 2.83.3 LTS at the time of writing: [Click Here to Download Blender](https://blender.org).
+
+![Blender Export Settings 2.8x.x](/images/blenderSettings.png)
 
 ### Discord Channel
 If this project sounds interesting to you and you would like to keep in the loop of the development. Please joing our discord channel: https://discord.gg/sT2JtX. Our project is called virtual-starship. Please follow all guidelines and rules set forth by the channel and introduce yourself in the #introduce-yourself channel! 
