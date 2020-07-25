@@ -70,7 +70,6 @@ Any 3D modeling programming may be use that allows for .fbx export. There are a 
 
 Quick hotkey commands are located for your reference in /Images/BlenderHotkeys
 
-
 ### Discord Channel
 If this project sounds interesting to you and you would like to keep in the loop of the development. Please joing our discord channel: https://discord.gg/sT2JtX. Our project is called virtual-starship. Please follow all guidelines and rules set forth by the channel and introduce yourself in the #introduce-yourself channel! 
 
@@ -83,8 +82,15 @@ https://docs.unity3d.com/Manual/index.html
 # Current Features
 - Implementation of a first person controller plugin that is open source and free from the Unity Marketplace
 - Basic Skybox
+-- Updated to space galaxy themed skybox
 - Basic Ground
 - Basic Model
+- Basic Lighting (Baked). All models are to be static for baking to be done correctly.
+
+# Technical Specifications
+- 4 Floors
+- 12 Rooms per floor
+- 4 rooms per floow should have windows
 
 # Features to Implement (New Users look here!)
 - Implementation of interaction controllers using the given. Doors, ladders, picking up objects. 
@@ -92,3 +98,5 @@ https://docs.unity3d.com/Manual/index.html
 - Lighting
 - Audio
 - Creating and optimizing models provided by @joe_mckirdy
+-- Foldable Space Chairs
+-- Other Props
