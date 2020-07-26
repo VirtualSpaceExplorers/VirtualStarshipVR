@@ -79,10 +79,18 @@ Were you an Unreal developer? Please see this for a better understanding and smo
 ### Unity Documentation for 2019.4.x
 https://docs.unity3d.com/Manual/index.html
 
+# Branch Features
+If you would like to work on the non-vr branch. Please pull from here.
+- Master branch contains the experience with tradition keyboard controls.
+   - WASD (Forward, Left, Backward, Right). Shift + W is running, Ctrl + W,A,S, or D is crouch. Space is jump.
+
+If you would like to work with the VR branch. Please pull from here.
+- VR branch contains the experience using a VR HMD (Head Mounted Display) for viewing and navigation as long with 2D debug controls as standard. Any VR HMD is supported as long as it supports SteamVR. 
+   - Teleporting (Oculus uses thumbstick forward, Vive uses center touchpad, WMR uses thumbstick forward or touchpad depending on model)
+
 # Current Features
 - Implementation of a first person controller plugin that is open source and free from the Unity Marketplace
-- Basic Skybox
--- Updated to space galaxy themed skybox
+- Basic Skybox (Updated to space galaxy themed skybox)
 - Basic Ground
 - Basic Model
 - Basic Lighting (Baked). All models are to be static for baking to be done correctly.
@@ -90,7 +98,7 @@ https://docs.unity3d.com/Manual/index.html
 # Technical Specifications
 - 4 Floors
 - 12 Rooms per floor
-- 4 rooms per floow should have windows
+- 4 rooms per floor should have windows
 
 # Features to Implement (New Users look here!)
 - Implementation of interaction controllers using the given. Doors, ladders, picking up objects. 
@@ -98,5 +106,6 @@ https://docs.unity3d.com/Manual/index.html
 - Lighting
 - Audio
 - Creating and optimizing models provided by @joe_mckirdy
--- Foldable Space Chairs
--- Other Props
+- Foldable Space Chairs
+- Other Props
+- VR interactions (See Assets -> External Packages -> SteamVR -> InteractionSystem -> Samples -> Interactions_Example.unity) -> This is the Interaction Examples scene provided by SteamVR.
